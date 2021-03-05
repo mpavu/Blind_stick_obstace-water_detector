@@ -1,10 +1,11 @@
 # Blind_stick_obstace-water_detector
 we have made a stick which works in several ways like it having the four functions works differently. 
-we have made a stick which works in several ways like it having the four functions works differently.
 1)	Obstacle detector
 2)	 Water detection
 1)	Obstacle detector
 Aim: To make obstacle detector for blind person
+circuit:
+![image](https://user-images.githubusercontent.com/76946428/110068799-7bc7e480-7d9c-11eb-9511-f73f8ac75b16.png)
 Material Required:
 1)	1*Ultrasonic sensor
 2)	1* Arduino Uno
@@ -19,6 +20,8 @@ Material Required:
  In this project, it works as a obstacle detector whenever there is an obstacle comes in the way of blind person it indicates that person via sound producing element (we used a buzzer) like whenever the obstacle is in range of 40 cm the sound of buzzer is at a quite low rate. When it comes in the range of 25 cm it becomes quite faster and when it comes in range of >=12cm it becomes at its high rate. All the LED’s will be OFF will the obstacle is far. 
 2)	Water detector 
 Aim: To make water detector for blind persons.
+Circuit:
+![image](https://user-images.githubusercontent.com/76946428/110068882-a6b23880-7d9c-11eb-8943-c1ed8a5fc19a.png)
 Material Required:
 1)	1* Arduino Uno
 2)	1* Buzzer
@@ -27,3 +30,4 @@ Material Required:
 5)	Jumper wires
  Working: 
  It detects the water whenever it comes in contact of water. There are                               two free wires is connected to the end of stick whenever it comes in contact the circuit becomes completed and produce a sound via buzzer which is connected in the circuit.
+
